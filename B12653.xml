@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation against the bringing in, dispersing, vttering and keeping of bulles from the sea of Rome, and other traiterous and sedicious libels, bookes and pamphlets</title>
+            <title>Proclamations. 1588-07-01</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12653</idno><idno type="EEBO-CITATION">99850613</idno>
+  <idno type="VID">176624</idno>
+  <idno type="EEBO-PROQUEST">2240852696</idno>
+  <idno type="STC">STC 8172</idno>
+  <idno type="STC">ESTC S115394</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99850613e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176624)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation against the bringing in, dispersing, vttering and keeping of bulles from the sea of Rome, and other traiterous and sedicious libels, bookes and pamphlets</title>
+                  <title>Proclamations. 1588-07-01</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno 1588. Cum priuilegio Regiæ Maiestatis]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Against STC 22590: A declaration of the sentence and deposition of Elizabeth, the usurper and pretensed quene of Englande.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Sixtus --  V, --  Pope, 1520-1590. --  Declaration of the sentence and deposition of Elizabeth, the usurper and pretensed quene of Englande --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Prohibited books --  England --  Early works to 1800.</term>
+               <term type="geographic_name">England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:176624:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>❧ By the Queene.</head>
+            <head type="sub">❧ A Proclamation against the bringing in, dispersing, vttering and keeping of Bulles from the Sea of R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, and other Traiterous and sedicious Libels, Bookes and Pamphlets.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes most excellent Maiestie, considering with her selfe how mercifully Almightie God hath by the space of many yeeres preserued her highnesse most Royal person, and this her Realme &amp; other her Dominions, against diuers and manifold most dangerous practises, aswell of the Pope, and other forreigne ene<g ref="char:EOLhyphen"/>mies, as of sundrie disloyall, rebellious and traiterous persons, being naturall borne Subiects of this Realme, who haue not ceased by all possible meanes they could deuise, to compasse the destruction of her Maiestie, and the vtter ruine and ouerthrow of this state and Common weale. For the effecting whereof, they haue contriued and layde sundrie complots, not onely for the inuasion of the Realme by forreigne enemies, but also to mooue and stirre vp sedition and rebellion at home, by withdrawing her Sub<g ref="char:EOLhyphen"/>iects from their loyall and due obedience, and by preparing them to betray their owne naturall Countrey, &amp; most <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnaturally to ioyne with forreine enemies, in the spoyle and destruction of the same. For which vngodly and wicked purpose (as it hath euidently appeared and bene fully prooued) so many Iesuites and Seminarie Priests and other persons of like qualitie, haue by direction of the Pope bene of late yeres sent into the Realme: By whom and their Adherents, sundry false, slanderous, and seditious rumors and reports, tending wholy to moue the peo<g ref="char:EOLhyphen"/>ples hearts to discontentment and offence, haue bene commonly bruted and giuen out, and diuers seditious and trayterous Libels, Bookes and writings, haue bene also by them published and scattered abroade. Whereupon her Maiestie foreseeing in her Princely wisedome the dangerous consequent of such malicious and traiterous practises, hath heretofore by seuerall Proclamations notified the same to her louing Subiects, forbidding there<g ref="char:EOLhyphen"/>by the publishing, hauing or keeping of any such seditious Libels, Bookes or writings, within any her Realmes of Dominions. And her Maiestie nowe finding, that the malice aswell of the Pope and other her forreigne ene<g ref="char:EOLhyphen"/>mies, as of her rebellious and trayterous Subiects liuing in the partes beyond the Seas, is more and more en<g ref="char:EOLhyphen"/>creased, and that they haue bene of long time secretly leuying and preparing great forces and Armies to inuade this Realme, and other her Maiesties Dominions, with purpose to put the same in speedie execution by all possi<g ref="char:EOLhyphen"/>ble meanes, thereby vtterly to ouerthrowe our most happy estate, and this florishing common weale, and to sub<g ref="char:EOLhyphen"/>iect the same to the proude, seruile, and slauish gouernment of forreiners and strangers. And hauing also certaine intelligence, that Sixtus the fift now Pope of Rome, hath of late published and set foorth a most ma<g ref="char:EOLhyphen"/>licious and detestable Bull or Libell against her Maiestie, and her most gracious and peaceable gouernment, and against all her louing, duetiful, and faithfull subiects: and that sundry other most false, slanderous, and trai<g ref="char:EOLhyphen"/>terous Libels, Bookes and Pamphlets are lately also contriued, written and printed by diuers sedicious and trayterous persons, with purpose to be in couert and secret maner dispersed through this Realme, wherein they doe not onely goe about with most false and abhominable lyes to slaunder and dishonour her Maiestie, and the present most happy and quiet state and gouernement, but also by subtile and pestilent perswasions to with<g ref="char:EOLhyphen"/>draw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her Highnesse subiects from their due obedience, and to excite and stirre vp the people to take armes a<g ref="char:EOLhyphen"/>gainst God and their Souereigne, and to ioyne with the forreigne enemies, &amp; so to betray and yeeld themselues, their parents, kindred and children, and their religion, countrey, and Common weale, to be subiects and slaues to Aliens and strangers. Therefore her Highnesse thinketh good to admonish her louing, good and faithfull sub<g ref="char:EOLhyphen"/>iects, to continue in humble seare and seruice to Almightie God, in their loyall and duetifull obedience to her
+<pb facs="tcp:176624:2"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tie, and in their faithfull readinesse to defend themselues and their Countrey against all forreigne ene<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es and rebellious traytors whatsoeuer. And doubteth not, but by Gods mercifull goodnesse (vpon which she <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alwayes, and doth onely depend) with the strength which God hath giuen her, to withstand their malice, and to preserue her good subiects, and her Realmes and Dominions from all dangers. Neuerthelesse, least any of her people should be seduced, or their simplicitie abused by the false perswasions or malicious surmises con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed in the said infamous and slaunderous Bulls, Libels, Bookes and pamphlets: Her Highnesse doth by this her Maiesties Proclamation straightly charge and commaund, that no person whatsoeuer, shall conuey, cary, or br<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g into any of her Maiesties Realmes or dominions, any of the said Buls, or any transcript or copy thereof, or <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y the said Libels, Bookes, Pamphlets or writings, nor shall in any wise disperse or vtter any of the same. And th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t all such persons, to whose hands any such Bull, or any transcript or copy thereof, or any of the sayde Libels, Boo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, Pamphlets or writings, eyther hath come, or shall hereafter at any time come, doe presently with al con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ent speed, without shewing the same to any person, send or deliuer it to some one of her Highnes priuy Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el, if any such be within xx. miles, or if it be aboue that distance of miles from the Court, then to the Lieutenant, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to his deputie of the same shire for the time being where the partie shall be, that hath or shal haue any such Bull <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any transcript or copy thereof, or any such Libell, Booke, Pamphlet or writing. And that the same Lieute<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant or his Deputie, to whose hands any such Bull, or any such transcript or copie thereof, or any such Libell, Booke, Pamphlet or writing shall come: shall without delay, and with all conuenient speede, safely sende the s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to the Lordes of her Maiesties priuy Counsell. And that euery person, to whome any such Bull, or any Transcript or copie thereof, or any such Libell, Booke, Pamphlet or writing shall be hereafter deliuered, offered <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hewed, shall immediatly apprehend and put in safe keeping the partie so deliuering, offering or shewing the s<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, if hee bee of power and able so to doe: to the ende that euery such offendor may bee foorth comming, to be speedily proceeded vpon and punished for the sayde offence, according to the tenor of this her Maiesties Procla<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation. Or for lacke of such abilitie, shall with alconuenient speede disclose the name and dwelling place, or place of resort of the partie so offending, to some Iustice of Peace of the Shire, where any such offence shalbe cōmitted: who shal thereupon immediatly cause the party so offending to be apprehended &amp; put in safe keeping as aforesaid.</p>
+            <p>And her Maiesties further pleasure and expresse commandement is, that if any person shall wittingly and wil<g ref="char:EOLhyphen"/>lingly offende in, or touching the bringing in, dispersing, vttering, or malitious hauing or keeping of any such Bull, or of any Transcript or Copie thereof, or of any the said Libels, Bookes or pamphlets, contrary to this her Maiesties Proclamation: that euery such offender shall with all seueritie bee proceeded against, and punished ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rding to the Martiall Law by her Maiesties Lieutenants, or by their Deputies, by direction from the same Lieutenants in that behalfe within the seuerall limits and precincts of their seuerall Commissions of Lieute<g ref="char:EOLhyphen"/>nancie, and shall suffer such paines and punishments in that behalfe, as by the saide Lieutenants or their Depu<g ref="char:EOLhyphen"/>ties, by such direction as is aforesaid, or any of them within their said Limits and Precincts, shalbe inflicted vpon them, and that thereupon also the goods and chattels of euery such offender, shall be confiscate and forfeited to her M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iestie. And for the better execution of this present Proclamation, her Maiestie doeth not onely graunt and c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmit full power and authoritie to all and euery her saide Lieutenants and their Deputies, hauing such direc<g ref="char:EOLhyphen"/>tion as is aforesaid: but doeth also hereby straitely charge and commaunde them, and euery of them, to proceede against the offenders aforesaid, with all diligence and seueritie according to the said Martiall Lawe. And further granteth by these presents, that none of her said Lieutenants or their Deputies, shall in any wise be empeached in body, lands or goods, at any time hereafter, for any thing to be done or executed in the punishing of any such of<g ref="char:EOLhyphen"/>fenders according to the saide Martiall Lawe, and the tenor of this her Highnesse Proclamation, any Lawe or Statute to the contrary in any wise notwithstanding. And for the better discouerie of the said offences and the mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t speedie apprehension of such Traiterous, seditious, and wicked persons, as after admonition giuen by this her Highnesse Proclamation, shall presume malitiously and wilfully to offende against the same: her Maiestie traitly chargeth and commandeth aswell all her saide Lieutenants and Deputies and euery of them, as all and euery her Iudges, Sheriffes, Iustices of Peace, Maiors, Bailiffes, and all other her Officers &amp; ministers, and good and louing Subiects, that they shall with all care &amp; diligence in all places, aswel exempt as not exempt, en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>t and search for all such Buls, Transcripts, Copies, Libels, Bookes and Pamphlets, and for al such persons whatsoeuer as shal bring in, publish, disperse, or vtter any of the same Buls, Transcripts, Copies, Libels, Bookes, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pamphlets, and them to arrest and apprehende and to put in safe keeping, that they may bee speedily proceeded
+<pb facs="tcp:176624:3"/>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the said offences, according to the Martiall Lawe as is aforesaid. And her Maiestie is pleased that all <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> persons as shall apprehend or detect any such offender against this Proclamation as is aforesaide, whereby <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> offender may be foorth comming to be proceeded vpon, and to receiue punishment according to the quali<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e offence, shall haue the moitie of all the goods and chattels of the same offender which shalbe so apprehen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> detected by them. And in case any Sheriffe, Maior, Iustice of Peace, or other publique and inferiour offi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any other to whom it shal or may appertaine, shall be found remisse or negligent in the due execution of this P<gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ation: then the said partie or parties so offending, shalbe brought before the Lordes &amp; others of her high<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Pauie Counsell, to receiue punishment for that remisnesse and contempt, as shall appertaine to the nature <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>tie of the same offence.</p>
+            <p>And <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nally, her Maiestie of her most gratious and mercifull disposition, doeth hereby signifie to all her louing <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ects, that her will and pleasure is, that they nor any of them shalbe molested, troubled, or empeached for any <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>heretofore passed in the receiuing or hauing of any of the said Buls, Transcripts, Copies, Libels, Bookes, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> P<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>phlets, so as they do deliuer the same according to the effect and true meaning of this Proclamation, &amp; so <gap reason="illegible" extent="3 words">
+                  <desc>〈◊◊◊〉</desc>
+               </gap> appeare that they haue bene no authors, bringers in, setters foorth, dispersers, or mainteiners of the same <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Transcripts, Copies, Libels, Bookes or Pamphlets. And her Maiestie willeth and graunteth, that this <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ghnesse Proclamation shalbe a sufficient warrant to all her saide Lieutenants and their Deputies, and all <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d euery her Iudges, Sheriffes, Iustices of Peace, Ministers and Officers, and all other her louing Subiects <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>atsoeuer, to proceede in the due execution of the premisses, according to the tenor of the same Proclamation. <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d therefore her Maiesties wil and pleasure is, that the same shalbe made and published vnder her great Seale <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> England.</p>
+            <closer>
+               <dateline>Giuen at her highnesse Mannour of Greenewich, <date>the first day of Iuly 1588. in the xxx. yeere <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> her raigne.</date>
+               </dateline>
+               <lb/> God saue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie. Anno 1588.</p>
+            <p>
+               <hi>Cum priuilegio Regiae Maiestatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
